@@ -35,6 +35,4 @@
 </p>
 ---
 
-## 🌱 Side Projects & Passions  
-- Containerized Drupal & headless CMS orchestration  
-- Prototype: Local LLM-powered library-data assistant (FOLIO + vector store)
+## 🌱 Side Projects & Passions
