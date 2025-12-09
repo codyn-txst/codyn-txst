@@ -20,12 +20,12 @@
 ---
 
 ## 🚀 What I Build  
-- Cloud-native stacks: Web APIs (Next.js / Express / Flask), infra automation & container orchestration  
-- Cross-platform desktop apps with Flutter + auto-update pipelines  
-- Secure auth: SSO, JWT + session control + audit-ready backends  
-- Self-healing infra: log-driven firewalls, automated rate-limiting & bot defense  
-- Custom tooling & integrations for digital-preservation systems (Archivematica, FOLIO, etc.)  
-- CI/CD pipelines with self-hosted runners, GitOps, containerized deployments  
+- Production-ready backend services (Next.js APIs, Express.js, Python microservices) wired into real-world systems like FOLIO, Islandora, ArchivesSpace, Stripe, and custom ETL pipelines
+- Automated workflows + infra tooling: containerized apps, CI/CD pipelines, GitHub Actions, Docker multi-stage builds, and self-hosted runners
+- DevOps setups for small teams: reverse proxies (Nginx/Traefik), SSL automation, log management, monitoring, and deployment environments on Linux/RHEL & AWS
+- Internal tools that reduce manual work: data ingestion scripts, account provisioning pipelines, library automation utilities, and API integrations
+- Custom integrations for digital-preservation & library ecosystems (metadata ingest, record sync, migration tooling)
+- Full-stack features for real products: dashboards, admin panels, and user-facing flows using React/Next.js + PostgreSQL
 
 ---
 ## 📈 GitHub Stats
