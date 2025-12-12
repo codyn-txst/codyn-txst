@@ -28,11 +28,11 @@
 - Full-stack features for real products: dashboards, admin panels, and user-facing flows using React/Next.js + PostgreSQL
 
 ---
-## 📈 GitHub Stats
+## 📈 Public GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codyn-txst&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyn-txst&layout=compact&theme=tokyonight" height="150" />
 </p>
----
 
+---
 ## 🌱 Side Projects & Passions
