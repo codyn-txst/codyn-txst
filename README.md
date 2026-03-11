@@ -30,8 +30,7 @@
 ---
 ## 📈 Public GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codyn-txst&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyn-txst&layout=compact&theme=transparent" height="150" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codyn-txst&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
