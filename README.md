@@ -29,8 +29,8 @@
 
 ---
 ## 📈 Public GitHub Stats
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codyn-txst&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codyn-txst&theme=highcontrast&hide_border=true&card_width=580" alt="GitHub Streak" /></a>
 </p>
 
 ---
